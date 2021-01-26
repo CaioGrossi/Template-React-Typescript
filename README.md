@@ -10,5 +10,7 @@ Vá até a paste do projeto e digite:
 ```
 yarn ou npm install
 ```
-para instalar as dependencias
+para instalar as dependencias.
+
+Se estiver usando npm, remova o arquivo yarn.lock.
 
