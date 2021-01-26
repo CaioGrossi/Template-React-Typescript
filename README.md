@@ -12,5 +12,6 @@ yarn ou npm install
 ```
 para instalar as dependencias.
 
-Se estiver usando npm, remova o arquivo yarn.lock.
+## Recomendações
+Se estiver usando npm, remova o arquivo "yarn.lock". Ao clonar, remova a pasta .git e incie um repositório local em sua maquina.
 
